@@ -1,2 +1,2 @@
 # Advanced_Cplusplus
-UVA, solve problem. C++.
+solve problem. using C++.
