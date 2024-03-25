@@ -1,3 +1,6 @@
+// https://codeforces.com/problemset/problem/1284/A
+// Codeforces 1284A New Year and Naming.
+
 #include<bits/stdc++.h>
 using namespace std;
 
