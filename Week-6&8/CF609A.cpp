@@ -1,3 +1,6 @@
+// https://codeforces.com/problemset/problem/609/A
+// Codeforces 609A USB Flash Drives
+
 #include<bits/stdc++.h>
 using namespace std;
 
