@@ -29,7 +29,6 @@
 # Executables
 *.exec
 *.exe
-*.out
 *.app
 
 # myself file
